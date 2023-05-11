@@ -1,0 +1,61 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+.jino{
+background-color: aqua;
+border: 1px solid#444;
+border-radius: 7px;
+max-width: 500px;
+margin: 40px auto;
+padding: 40px;
+cursor: pointer;
+}
+.jino img{
+width: 300px;
+height: 300px;
+border-radius: 70%;
+margin-bottom: 30px;
+margin-left: 70px;
+}
+.jino h1{
+color: azure;
+text-align: center;
+margin: 20px;
+}
+
+.jino h2{
+color: blue;
+text-align:center;
+margin: 20px;
+}
+
+.jino p{
+line-height: 30px;
+color: #444;
+}
+
+
+
+button{
+    outline: none;
+    border: none;
+    background: rgb(26, 94, 197);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.update{
+    margin: 3% auto;
+    text-align: center;
+
+}
+#update{
+    color: rgb(25, 68, 209);
+}
